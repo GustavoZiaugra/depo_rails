@@ -1,14 +1,14 @@
 development:
     adapter: postgresql
-    database: depo_rails_db
-    host: localhost
+    database: postgres
+    host: postgres
 
 test:
     adapter: postgresql
-    database: depo_rails_db
-    host: localhost
+    database: postgres
+    host: postgres
 
 production:
     adapter: postgresql
-    database: depo_rails_db
-    host: localhost
+    database: postgres
+    host: postgres
